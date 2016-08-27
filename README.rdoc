@@ -1,7 +1,7 @@
-# README
+= README
 
-## Flutter - a Twitter clone.
+== Flutter - a Twitter clone.
 
-This application is the product of the tutorial series run by [*DevFactor*](*http://www.devfactor.io*).
+This application is the product of the tutorial series run by DevFactor (http://www.devfactor.io).
 
-Head over to YouTube and Type DevFactor to follow along and learn tonnes of the good Ruby on Rails stuff!
+Head over to YouTube and Type 'DevFactor' to follow along and learn tonnes of the good Ruby on Rails stuff!
